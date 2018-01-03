@@ -140,11 +140,15 @@ startActivity(intent2);
         } else if (id == R.id.question) {
 
         } else if (id == R.id.notification) {
+            Intent intent=new Intent(Navigation_drawer.this,Notification_activity.class);
+            startActivity(intent);
 
         } else if (id == R.id.news) {
             Intent intent=new Intent(Navigation_drawer.this,News_and_notification.class);
             startActivity(intent);
         } else if (id == R.id.maps) {
+            Intent intent=new Intent(Navigation_drawer.this,leaders_map.class);
+            startActivity(intent);
 
         } else if (id == R.id.gallery) {
 

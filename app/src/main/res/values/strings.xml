@@ -3,7 +3,7 @@
     <string name="barack_obama">Barack Obama</string>
     <string name="Nepali_congress">Nepali Congress</string>
     <string name="kathmandu">Kathmandu</string>
-    <string name="how_to">How to Vote Me? </string>
+    <string name="how_to">connect with me  </string>
     <string name="agenda">AGENDA</string>
     <string name="padna_ko_lagi">To study click the button below</string>
     <string name="news">News and announcement</string>
@@ -32,6 +32,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="bio2">From age six to ten, Obama attended local Indonesian-language schools\ Sekolah Katolik Santo Fransiskus Asisi (St. Francis of Assisi Catholic School) for two\ years and Sekolah Dasar Negeri Menteng 01 (Besuki Public School) for one and a half years, supplemented by English-language Calvert School homeschooling by his mother\.During his time in Indonesia, Obama's step-father taught him to be resilient and gave him \"a pretty hardheaded assessment of how the world works"</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_leaders_map">Map</string>
 
 
 </resources>
