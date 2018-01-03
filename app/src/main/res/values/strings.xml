@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Obama</string>
+    <string name="barack_obama">Barack Obama</string>
+    <string name="Nepali_congress">Nepali Congress</string>
+    <string name="kathmandu">Kathmandu</string>
+    <string name="how_to">How to Vote Me? </string>
+    <string name="agenda">AGENDA</string>
+    <string name="padna_ko_lagi">To study click the button below</string>
+    <string name="news">News and announcement</string>
+    <string name="obama">Obama criticised for"$40,000 wall street speech</string>
+
+
+    <string name="obama_sub" formatted="false">former us president barack obama is being criticised for\  reportedly  agreeing a $400000 wall street speech</string>
+    <string name="title_activity_navigation_drawer">Navigation_drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="my_biography">MY BIOGRAPHY</string>
+    <string name="question_answer">QUESTION ANSWER</string>
+    <string name="notifications">NOTIFICATION</string>
+    <string name="my_news">NEWS</string>
+    <string name="maps">MAPS</string>
+    <string name="Gallery">GALLERY</string>
+    <string name="social_media">SOCIAL MEDIA</string>
+    <string name="bio_para_1">lorum sum</string>
+    <string name="status">Tonight at 9 pm.Eastern Time,president\Obama delivers his farewell address in\chicago.\
+    Don't miss it.
+</string>
+    <string name="bio1">Barack Hussein Obama II is an American politician who served as the 44th President\ of the United States from 2009 to 2017.\ The first African American to assume the presidency\ he previously was the junior United States Senator from Illinois from 2005 to 2008</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bio2">From age six to ten, Obama attended local Indonesian-language schools\ Sekolah Katolik Santo Fransiskus Asisi (St. Francis of Assisi Catholic School) for two\ years and Sekolah Dasar Negeri Menteng 01 (Besuki Public School) for one and a half years, supplemented by English-language Calvert School homeschooling by his mother\.During his time in Indonesia, Obama's step-father taught him to be resilient and gave him \"a pretty hardheaded assessment of how the world works"</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

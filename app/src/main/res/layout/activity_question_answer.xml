@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="15dp">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="Name"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/color_white"
+        android:textColorHint="@color/color_white"
+        android:background="@color/color_how_to"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="Email"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/color_white"
+        android:textColorHint="@color/color_white"
+        android:background="@color/color_how_to"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="Address"
+        android:textColor="@color/color_white"
+        android:textColorHint="@color/color_white"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="10dp"
+        android:background="@color/color_how_to"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:hint="Your Question?"
+        android:textColor="@color/color_white"
+        android:textColorHint="@color/color_gray"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:background="@color/color_how_to"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:textAllCaps="false"
+        android:textColor="@color/color_white"
+        android:layout_marginTop="30dp"
+        />
+</LinearLayout>

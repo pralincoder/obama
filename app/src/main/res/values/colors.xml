@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_white">#ffff</color>
+    <color name="color_blacl">#000000</color>
+    <color name="color_gray">#ececec</color>
+    <color name="color_how_to">#bababa</color>
+    <color name="color_of_agenda">#ececec</color>
+    <color name="color_of_news">#ececec</color>
+    <color name="color_image">#313030</color>
+    <color name="colorr_ask">#585858</color>
+</resources>
